@@ -1,0 +1,26 @@
+{
+  "name": "inboundcall",
+  "version": "1.0.0",
+  "description": "Answer all inbound calls and speak the predetermined sentence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'no test yet'",
+    "start": "node index.js"
+
+  },
+  "keywords": [
+    "inbound",
+    "call",
+    "call",
+    "speak",
+    "sentence",
+    "answer"
+  ],
+  "author": "Jillian Troftgruben",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "node-bandwidth": "^2.3.3"
+  }
+}
